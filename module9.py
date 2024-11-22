@@ -1,5 +1,5 @@
-# Your name
-# Date
+# Jonathan Lopez
+# 11/22/2024
 
 from typing import List, Optional
 
